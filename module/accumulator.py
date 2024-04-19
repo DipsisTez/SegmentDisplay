@@ -1,3 +1,5 @@
+#test class
+
 class Accumulator:
 	def __init__(self, powerEnergy, V, I, serial_key):
 		self.powerEnergy = powerEnergy
